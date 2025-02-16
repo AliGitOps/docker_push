@@ -1,1 +1,1 @@
-ghcr.io/eraser-dev/eraser-manager:v1.2.0
+alpine:3.7.3
