@@ -1,1 +1,1 @@
-# docker_push
+# 公共仓库使用直接 Fork 即可
