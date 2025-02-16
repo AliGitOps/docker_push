@@ -1,1 +1,1 @@
-nginx:latest
+zhayujie/chatgpt-on-wechat
