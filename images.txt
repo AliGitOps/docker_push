@@ -1,1 +1,1 @@
-dockerproxy.com/elastic/elasticsearch:8.11.0
+dockerproxy.com/elastic/kibana:8.11.0
