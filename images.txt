@@ -1,1 +1,1 @@
-vulhub/struts2:2.3.28
+dockerproxy.com/elastic/elasticsearch:8.11.0
