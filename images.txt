@@ -1,1 +1,1 @@
-dockerproxy.com/elastic/filebeat:8.11.1
+mobz/elasticsearch-head:5-alpine
