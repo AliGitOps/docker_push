@@ -1,1 +1,1 @@
-mobz/elasticsearch-head:5-alpine
+minio/operator:v5.0.14
