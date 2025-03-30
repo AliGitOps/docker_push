@@ -1,1 +1,1 @@
-public.ecr.aws/nginx/nginx:placeholder
+nginx:placeholder
