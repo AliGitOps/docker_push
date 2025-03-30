@@ -1,1 +1,1 @@
-minio/operator:v5.0.14
+public.ecr.aws/nginx/nginx:placeholder
