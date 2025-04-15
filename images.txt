@@ -1,1 +1,1 @@
-rancher/coreos-etcd:v3.2.18
+openjdk:11
