@@ -1,1 +1,1 @@
-fluentd
+fluentd:7.17.0
