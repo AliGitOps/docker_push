@@ -1,1 +1,1 @@
-fluentd:7.17.0
+percona/percona-xtrabackup:latest
