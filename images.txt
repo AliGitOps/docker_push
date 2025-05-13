@@ -1,2 +1,4 @@
-docker:dind
-jenkins/jenkins:2.504.1-jdk21
+cskefu/contact-center:develop
+cskefu/mysql:5.7
+cskefu/redis:5.0.5
+cskefu/activemq:5.14.3
