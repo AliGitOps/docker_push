@@ -1,1 +1,1 @@
-quay.io/fluentd_elasticsearch/logstash:v7.4.3
+logstash:7.4.3
