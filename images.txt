@@ -1,1 +1,1 @@
-elastic/filebeat:v7.4.3
+elastic/filebeat:7.4.3
