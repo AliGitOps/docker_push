@@ -1,4 +1,1 @@
-cskefu/contact-center:develop
-cskefu/mysql:5.7
-cskefu/redis:5.0.5
-cskefu/activemq:5.14.3
+docker.io/calico/cni:v3.25.0
