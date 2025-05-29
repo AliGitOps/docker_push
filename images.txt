@@ -1,2 +1,1 @@
 minio/console:v0.22.5
-minio/console:v0.15.13
