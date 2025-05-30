@@ -1,1 +1,1 @@
-k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
+jenkins/jenkins:2.504.2-jdk21
