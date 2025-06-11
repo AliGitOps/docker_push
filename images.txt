@@ -1,1 +1,1 @@
-jenkins/jenkins:2.504.2-jdk21
+minio/minio
