@@ -1,1 +1,1 @@
-minio/minio
+jenkins/inbound-agent:latest
