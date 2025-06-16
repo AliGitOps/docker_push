@@ -1,1 +1,1 @@
-ghcr.io/apache/shardingsphere-proxy:latest
+ghcr.io/apache/shardingsphere-proxy:698db2c1957da1afbfea3fbef096933f541ef117
