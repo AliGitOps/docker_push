@@ -1,1 +1,1 @@
-mobz/elasticsearch-head:latest
+mobz/elasticsearch-head
