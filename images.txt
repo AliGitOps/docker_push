@@ -1,1 +1,1 @@
-mysql:8
+mobz/elasticsearch-head:latest
