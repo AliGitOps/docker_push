@@ -1,1 +1,3 @@
-mobz/elasticsearch-head:5
+prom/prometheus
+uhub.service.ucloud.cn/starcto/prometheus:latest
+services-status-exporter
