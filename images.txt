@@ -1,1 +1,2 @@
-golang:1.23-alpine
+prom/prometheus
+grafana/grafana
