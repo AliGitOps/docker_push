@@ -1,2 +1,1 @@
-prom/prometheus
-grafana/grafana
+uhub.service.ucloud.cn/starcto/prometheus:latest
