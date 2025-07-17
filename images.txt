@@ -1,1 +1,1 @@
-registry.cn-hongkong.aliyuncs.com/o0l/tomcat:9.0-jdk11-openjdk
+quay.io/minio/minio:latest
