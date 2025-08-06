@@ -1,1 +1,1 @@
-docker.n8n.io/n8nio/n8n:latest
+milvusdb/milvus:v2.6.0
