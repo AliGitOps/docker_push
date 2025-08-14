@@ -1,1 +1,1 @@
-openeuler:latest
+centos:7
