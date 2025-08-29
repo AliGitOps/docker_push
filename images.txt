@@ -1,2 +1,1 @@
-openjdk:17-jdk
-openjdk:17
+docker.io/calico/cni:v3.25.0
